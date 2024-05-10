@@ -1,0 +1,16 @@
+.card-options{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 30px;
+}
+
+.card-options-image{
+    background-color: #EEEEEE;
+    border-radius: 15px;
+    display: flex;
+
+}
+
+.section-bigger-container{
+    margin: 10px 10px 10px 20px;
+}

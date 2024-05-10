@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-info{
+    background-color: #333132 ;
+    width: 45vw;
+    border-radius: 10px;
+    padding: 15px 7px;
+
+
+}
+
+.card-info img{
+    padding-bottom: 2px;
+}
+
+.first-p{
+    margin: 5px 0px;
+    font-family: 'Roboto, sans-serif';
+}
+
+.card-info p{
+    margin: 8px 0px;
+}
+
+.card-info p{
+    color: #fff;
+}
+
+.welcome-text{
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.section-container{
+    padding-bottom: 30px;
+    margin: 10px 10px 10px 20px;
+}
+
+.solde{
+    display: flex;
+    justify-content: space-between;
+}
+
+.solde img{
+    margin-top: 8px;
+    height: 20px;
+    width: 20px;
+}
+
+.card-options-element{
+    font-size: 14px;
+    text-align: center;
+}
+

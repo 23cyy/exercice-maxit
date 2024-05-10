@@ -1,0 +1,16 @@
+.navbar{
+ display: flex;
+ justify-content: space-between;
+ margin: 15px 5px;
+ padding-bottom: 3vh;
+}
+
+.navbar-right-group{
+    display: flex;
+    align-items: center;
+    margin: 0px 15px; 
+}
+
+.navbar-item{
+    margin: 0px 15px;
+}

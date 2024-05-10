@@ -1,0 +1,37 @@
+.lower-navbar-container{
+    background-color: #FAFAFA;
+    display: flex;
+    width: 100%;
+    height: 88px;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+    position: fixed;
+    bottom: 0;
+}
+
+.lower-navbar-container div{
+    margin-top: 15px;
+}
+
+
+.lower-navbar-item-1-image{
+    background-color: #EEEEEE;
+    padding: 0px 5px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 2px;
+}
+
+.lower-navbar-item-1-image img{
+    padding: 4px;
+    height: 30px;
+    width: 30px;
+    object-fit: contain;
+}
+
+.footer-text{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

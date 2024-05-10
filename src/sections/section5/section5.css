@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+.card-options-section5{
+    display: flex;
+}
+
+.card-options-image{
+    background-color: #EEEEEE;
+    border-radius: 15px;
+    display: flex;
+
+}
+
+.card-options-element{
+    margin-right: 10vw;
+}
+
+p{
+    font-family: 'Roboto';
+    font-size: 1em;
+}
+

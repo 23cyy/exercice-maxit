@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.section3-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.section3-right-container{
+    display: flex;
+    margin-right: 25px;
+}
+
+.card-options-section3{
+    background-color: #EEEEEE;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.section-bigger-container{
+    padding-bottom: 30px;
+}
+
+.section-title{
+    padding-bottom: 20px;
+}
+
+.sub-text{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+.section3-right-container > div{
+    margin-left: 60px;
+}
+
+.container{
+    margin-bottom: 20px;
+}

@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.card-options{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+}
+
+.card-options-image{
+    background-color: #EEEEEE;
+    padding: 10px;
+    border-radius: 15px;
+    display: flex;
+
+}
+
+.section-title{
+    font-size: 1.3em;
+    font-weight: 600;
+}
+
+.card-options-element p{
+    margin-top: 10px;
+}
+
+.sos img{
+    height: 40px;
+    width: 45px;
+}
